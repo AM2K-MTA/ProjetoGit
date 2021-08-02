@@ -1,0 +1,1 @@
+Representa o projeto, por exemplo, pastas e arquivos do tipo .html, ou .js or other similars!
